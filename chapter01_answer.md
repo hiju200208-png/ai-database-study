@@ -80,7 +80,7 @@ assignments/chapter01/images/step01_environment.png
 
 `여기에 STEP 1 증거 화면을 삽입하세요.`
 
----
+![PostgreSQL 실행 환경 확인](./chapter01/images/step01_environment.png)
 
 # 2. Chapter 01 핵심 내용 복습
 
