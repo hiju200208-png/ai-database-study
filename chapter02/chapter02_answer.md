@@ -708,7 +708,7 @@ LMS 제출 URL 형식:
 ```text
 https://github.com/<본인-GitHub-ID>/<본인-저장소>/blob/main/assignments/chapter02/chapter02_answer.md
 ```
-
+https://github.com/hiju200208-png/ai-database-study/blob/main/chapter02/chapter02_answer.md
 ## 최종 확인
 
 - [x] 위 URL을 로그아웃 상태 또는 다른 브라우저에서 열어도 확인 가능하다.
